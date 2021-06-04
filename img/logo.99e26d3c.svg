@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 689.56 184.85">
+    <defs>
+        <style>
+            .cls-1 {
+                font-size: 41.95px;
+            }
+
+            .cls-1,
+            .cls-2 {
+                fill: #fff;
+                font-family: Montserrat-Regular, Montserrat;
+            }
+
+            .cls-2 {
+                font-size: 47.19px;
+            }
+
+            .cls-3 {
+                fill: #61b446;
+            }
+
+            .cls-4 {
+                fill: #81c341;
+            }
+
+            .cls-5 {
+                font-size: 39.89px;
+                fill: #fff;
+                font-family: Montserrat-Bold, Montserrat;
+                font-weight: 700;
+            }
+            
+        </style>
+    </defs>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="Layer_1-2" data-name="Layer 1"><text class="cls-1" transform="translate(234.61 35.66)">Batch
+                2021</text><text class="cls-2" transform="translate(219.69 172.48)">Full Physics</text>
+            <path class="cls-3"
+                d="M689.56,44.63V141a2463.77,2463.77,0,0,0-266.22-22.21c-24.19-52.84-58.27-74.11-58.27-74.11Z" />
+            <path class="cls-4"
+                d="M423.34,118.74a.66.66,0,0,0-.28,0Q215.13,112.59,0,141V44.63H365.07S399.15,65.9,423.34,118.74Z" />
+            <path class="cls-4"
+                d="M423.78,119.68l-.72-.94-58-74.11s34.08,21.27,58.27,74.11A9.92,9.92,0,0,1,423.78,119.68Z" /><text
+                class="cls-5" transform="translate(55.75 97.69)">Apar-Chinmoy BUET Admission</text></g>
+    </g>
+</svg>
