@@ -1,0 +1,11 @@
+<script>
+    let path = location.pathname.replace('/aparchinmoy21', '')
+    localStorage.setItem('path', path)
+    if (path.includes('ranking')) {
+        window.location.href = '../'
+    } else if (path.includes('exam')) {
+        window.location.href = '../'
+    } else {
+        window.location.href = './'
+    }
+</script>
